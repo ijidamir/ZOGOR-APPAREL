@@ -1,5 +1,5 @@
 import React from 'react'
-import relatedF  from '../assets/relatedF'
+import relatedF  from '../assets/relatedF.js'
 import Item from './Item'
 
 const RelatedProducts = () => {
