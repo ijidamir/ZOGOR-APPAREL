@@ -11,13 +11,13 @@ const ProductDisplay = (props) => {
     <div className='flex max-sm:flex-col  gap-2'>
         <div className='flex gap-1 max-sm:flex-col max-md:gap-0 '>
             <div className="flex sm:flex-col gap-2 max-sm:hidden  mt-4 items-center">
-                <img src={product.image} alt="" className='w-[150px] md:w-[200px] md:h-60 max-md:hidden ' />
-                <img src={product.image} alt="" className='w-[150px] md:w-[200px]  md:h-60 max-md:hidden ' />
-                <img src={product.image} alt="" className='w-[150px] md:w-[200px]  md:h-60 max-md:hidden  ' />
+                <img src={product.image} alt="" className='w-[150px] md:w-[150px] md:h-40 max-md:hidden ' />
+                <img src={product.image} alt="" className='w-[150px] md:w-[150px]  md:h-50 max-md:hidden ' />
+                <img src={product.image} alt="" className='w-[150px] md:w-[150px]  md:h-60 max-md:hidden  ' />
                
             </div>
             <div>
-                <img src={product.image} alt="" className='xl:w-[563px] xl:h-[740px] md:w-[500px] md:h-[700px] mt-4' />
+                <img src={product.image} alt="" className=' md:w-[600px] md:h-[614px] mt-4' />
             </div>
         </div>
         <div className='mt-6 max-sm:mx-3'>
