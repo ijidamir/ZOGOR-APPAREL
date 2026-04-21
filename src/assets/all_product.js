@@ -64,7 +64,7 @@ let all_product = [
     name: "The Fitted Ankara Gown",
     category: "Women",
     image: p6_img,
-    description:"this is a modenised traditional ankara gownn which emits a radiance of beauty in a modernised way.",
+    description:"this is a modenised traditional ankara gown which emits a radiance of beauty in a modernised way.",
     new_price: 24500.0,
     old_price: 120.5,
   },

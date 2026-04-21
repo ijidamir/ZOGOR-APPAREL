@@ -7,7 +7,7 @@ const NewProducts = () => {
   return (
     <div>
         <Title title={"New Products"} desc={"Check out our latest collections."}/>
-        <div className='grid grid-cols-1 md:grid-cols-2  xl:grid-cols-4  '>
+        <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  xl:grid-cols-4  '>
             {new_collections.map((item,i)=>(
               <Item key={i} id={item.id} name={item.name} new_price={item.new_price} image={item.image}/>  
             ))}
