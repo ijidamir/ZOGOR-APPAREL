@@ -18,7 +18,7 @@ const Footer = () => {
       <div className='flex gap-5 mt-4'>
         <a href="https://www.facebook.com/GodfreyZirra" target="blank" rel="noopener noreferrer "  ><FaFacebookF/></a>
         <a href="#"><FaInstagram/></a>
-        <a href="https://wa.me/2348135677305?text=Hello"  target="blank" rel="noopener noreferrer"><FaWhatsapp/></a>
+        <a href="https://wa.me/2348135677305?text=Hello-ZogorApparel"  target="blank" rel="noopener noreferrer"><FaWhatsapp/></a>
       </div>
       <hr className='w-full bg-gray-900 h-1 my-6'/>
       &copy; 2026 ZogorApparell. All rights reserved
