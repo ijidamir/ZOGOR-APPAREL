@@ -40,7 +40,7 @@ This project was built as part of my frontend development journey to strengthen 
 To run this project locally:
 
 # Clone the repository
-git clone https://github.com/your-username/zogor-apparel.git
+git clone https://github.com/your-ijidamir/zogor-apparel.git
 
 # Navigate into the project folder
 cd zogor-apparel
